@@ -1,0 +1,29 @@
+{
+  "name": "flashcard",
+  "version": "0.0.0",
+  "description": "Application to help creating and organizing Flash Cards.",
+  "keywords": [
+    "FlashCards"
+  ],
+  "author": "Xovika <azadehtajvidi@gmail.com>",
+  "homepage": "https://github.com/Xovika/chunk#readme",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xovika/chunk.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/Xovika/chunk/issues"
+  }
+}
